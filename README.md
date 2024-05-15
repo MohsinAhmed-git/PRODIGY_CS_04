@@ -1,0 +1,1 @@
+Keylogger program that records and logs keystrokes. It can be used by security professionals to test the security of a system or network by capturing and analyzing keystrokes to identify vulnerabilities.
